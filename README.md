@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I've been enjoying web development for the first time ever since I completed my major Notris-Online project. The experience makes me want to dive headlong into creating more synchronous multiplayer experiences using WebSocket and Go.
+
+I'm currently on the lookout for a role in web development, ideally writing Go or Python. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+
+📫 How to reach me: ijstrdev@gmail.com | discord.com/_strdev
 <!--
 **isaacjstriker/isaacjstriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
