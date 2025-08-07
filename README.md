@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I've been enjoying web development for the first time ever since I completed my major Notris-Online project. The experience makes me want to dive headlong into creating more synchronous multiplayer experiences using WebSocket and Go.
-
-I'm currently on the lookout for a role in web development, ideally writing Go or Python. I'd especially love to work on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+I've been enjoying web development since I bagan taking online courses, and finishing an online mutliplayer game, Notris-Online. I'm currently on the lookout for a role in web development, ideally writing Go or Python. I'd especially love to work on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
 
 📫 How to reach me: ijstrdev@gmail.com | Discord username: _strdev
 <!--
