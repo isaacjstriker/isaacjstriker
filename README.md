@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I've been enjoying web development since I bagan taking online courses, and finishing an online mutliplayer game, Notris-Online. I'm currently on the lookout for a role in web development, ideally writing Go or Python. I'd especially love to work on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+I've been enjoying web development since I began taking online courses, and finishing an online multiplayer game, Notris-Online. I'm currently on the lookout for a role in web development, ideally writing Go or Python. I'd especially love to work on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
 
 📫 How to reach me: isaacstriker@pm.me | Discord username: _strdev
 <!--
