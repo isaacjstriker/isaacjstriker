@@ -1,6 +1,6 @@
-## Professional Web Developer 👋
+## Professional Web Developer
 
-Professional web developer. Recently finished computer science course, as well as completing several projects. I'm currently on the lookout for a role in backend web development, ideally writing Go or Python. I'd especially love to work on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+Professional web developer. Recently finished computer science course, as well as completing several projects, including a browser-based multiplayer game, and a company site for a client. I'm currently on the lookout for a role in backend web development, ideally writing Go or Python. I'd especially love to work on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
 
 📫 How to reach me: isaacstriker@pm.me | Discord username: _strdev
 <!--
