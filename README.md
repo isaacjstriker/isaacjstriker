@@ -1,8 +1,7 @@
 ## Hello, World
 
-Professional web developer. Recently finished computer science course, as well as completing several projects, including a browser-based multiplayer game, and a company site for a client. I'm currently on the lookout for a role in backend web development, ideally writing Go or Python. I'd especially love to work on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+Web developer specializing in Python and Go frameworks. I prefer Go. If I'm not creating a new repo, I'm usually scouring for repos to contribute to, or building an application on cc to keep my coding brain in check. If you know any good books on programming theory, please let me know. I need to add to my stack LOL.
 
-📫 How to reach me: isaacstriker@pm.me | Discord username: _strdev
 <!--
 **isaacjstriker/isaacjstriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
