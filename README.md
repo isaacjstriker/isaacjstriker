@@ -2,6 +2,10 @@
 
 Web developer specializing in Python and Go frameworks. I prefer Go. If I'm not creating a new repo, I'm usually scouring for repos to contribute to, or building an application on cc to keep my coding brain in check. If you know any good books on programming theory, please let me know. I need to add to my stack LOL.
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/d353f10d-54cb-41b1-9293-9ce713f35e6a/thumbnail" >
+</p>
+
 <!--
 **isaacjstriker/isaacjstriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
