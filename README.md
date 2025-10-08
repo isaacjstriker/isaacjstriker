@@ -8,7 +8,7 @@ My name is Isaac Striker. Here's a bit about me:
 
 - Go and JavaScript are my favorite languages, and the ones I use the most
 - I'm currently learning TypeScript and C++
-- I believe in writing clear and concise code that easy to understand by other developers
+- I believe in writing clear and concise code that is easy to understand for other developers
 - I love writing RESTful APIs
 
 <!--
