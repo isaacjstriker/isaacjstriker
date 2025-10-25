@@ -8,8 +8,7 @@ My name is Isaac Striker. Here's a bit about me:
 
 - Go and JavaScript are my favorite languages, and the ones I use the most
 - I'm currently learning TypeScript and vue.js
-- I believe in writing clear and concise code that is easy to understand for other developers
-- I love writing RESTful APIs
+- I do my best to write clear and concise code that is easy to understand for other developers
 
 <!--
 **isaacjstriker/isaacjstriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
