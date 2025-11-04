@@ -1,13 +1,13 @@
-## Hello, World
+## About Me
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/d353f10d-54cb-41b1-9293-9ce713f35e6a/thumbnail" >
 </p>
 
-My name is Isaac Striker. Here's a bit about me:
+My name is Isaac Striker.
 
 - C and JavaScript are my favorite languages, and the ones I use the most
-- I'm currently learning TypeScript
+- I'm currently learning TypeScript and C++
 - I do my best to write clear and concise code that is easy to understand for other developers
 - I prefer 100% organic human-written code
 
