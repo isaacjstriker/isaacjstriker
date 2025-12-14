@@ -6,7 +6,7 @@
 
 My name is Isaac Striker. Ever since enrolling in Boot.dev's computer science course, I've been building tools that are both practical and provide quantifiable improvements.
 
-- I'm currently learning TypeScript and C++
+- I'm currently learning Kubernetes
 - I do my best to write clear and concise code that is easy to understand for other developers
 - I prefer 100% organic human-written code
 
