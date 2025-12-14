@@ -1,6 +1,6 @@
 ## About Me
 
-<p align="center">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/d353f10d-54cb-41b1-9293-9ce713f35e6a/thumbnail" >
 </p>
 
