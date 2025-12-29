@@ -1,7 +1,7 @@
 ## About Me
 
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/d353f10d-54cb-41b1-9293-9ce713f35e6a/thumbnail" size="18px">
+  <img src="https://api.boot.dev/v1/users/public/d353f10d-54cb-41b1-9293-9ce713f35e6a/thumbnail" >
 </p>
 
 My name is Isaac Striker. Ever since enrolling in Boot.dev's computer science course, I've built tools that are both practical and provide quantifiable improvements in the workplace, personal projects to enhance my skills, and developed a love for computer science.
