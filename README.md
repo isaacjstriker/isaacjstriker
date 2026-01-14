@@ -6,7 +6,7 @@
 
 My name is Isaac Striker. Ever since enrolling in Boot.dev's computer science course, I've built tools that are both practical and provide quantifiable improvements in the workplace, personal projects to enhance my skills, and developed a love for software engineering.
 
-- 🌱 I'm currently learning Kubernetes
+- 🌱 I'm currently learning Pub/Sub architecture
 - ⚡ I do my best to write clear and concise code that is easy to understand for other developers
 - 🔭 I love building new tools and putting my coding knowledge into practice (learning by doing)
 
