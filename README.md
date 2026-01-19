@@ -10,7 +10,7 @@ My name is Isaac Striker. Ever since enrolling in Boot.dev's computer science co
 - ⚡ I do my best to write clear and concise code that is easy to understand for other developers
 - 🔭 I love building new tools and putting my coding knowledge into practice (learning by doing)
 
-Check out my Boot.dev profile by clicking [here](https://www.boot.dev/u/isaacstriker)
+Check out my Boot.dev profile by clicking <a href="https://www.boot.dev/u/isaacstriker" target="_blank">here</a>
 
 <!--
 **isaacjstriker/isaacjstriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
