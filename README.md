@@ -9,7 +9,7 @@ My name is Isaac Striker. Ever since enrolling in Boot.dev's computer science co
 - 🦀 I'm currently learning Rust
 - ⚡ I do my best to write clear and concise code that is easy to understand for other developers
 - 🔭 I love building new tools and putting my coding knowledge into practice (learning by doing)
-- 🖥️ My current OS is Pop!_OS
+- 🖥️ My fav Linux distro is currently Pop!_OS
 
 Check out my Boot.dev profile by clicking <a href="https://www.boot.dev/u/isaacstriker" target="_blank" rel="noopener noreferrer">here</a>
 
