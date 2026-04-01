@@ -4,7 +4,7 @@
   <img src="https://api.boot.dev/v1/users/public/d353f10d-54cb-41b1-9293-9ce713f35e6a/thumbnail" >
 </p>
 
-My name is Isaac Striker. Ever since enrolling in Boot.dev's computer science course, I've built tools that are both practical and provide quantifiable improvements in the workplace, personal projects to enhance my skills, and developed a love for software engineering.
+My name is Isaac Striker. Ever since enrolling in Boot.dev's computer science course, I've developed a love for software engineering, and have had the opportunity to put my skills to the test by building several shipped tools.
 
 - 🦀 I'm currently learning Rust
 - ⚡ I do my best to write clear and concise code that is easy to understand for other developers
